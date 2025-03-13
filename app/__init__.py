@@ -1,0 +1,3 @@
+"""
+LocalBlogGenius Backend Application
+""" 
